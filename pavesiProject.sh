@@ -1,8 +1,8 @@
 # access
-ssh BCG2023_dmontero-rasgado@159.149.160.7
+ssh 
 
 # password
-MNTDCM98B66Z514H
+
 
 # 1) after downloading the files I want to upload them in the server
 
